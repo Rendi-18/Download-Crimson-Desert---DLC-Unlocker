@@ -284,15 +284,6 @@ This project is **open source** and available for educational purposes.
 
 <div align="center">
 
-**Made with ❤️ by CD Modding Tools**
-
-⭐ Star this repo if you found it helpful!
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/crimson-desert-unlocker?style=social)](../../stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/crimson-desert-unlocker?style=social)](../../network/members)
-
----
-
 **Digitally Signed** | **Open Source** | **Safe to Use**
 
 Certificate Thumbprint: `B6F811EBEBA0B6C989AA7044D4AA7BA112C67C8E`
