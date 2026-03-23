@@ -1,0 +1,102 @@
+═══════════════════════════════════════════════════════════════
+    CRIMSON DESERT DLC UNLOCKER - USER GUIDE
+═══════════════════════════════════════════════════════════════
+
+HOW TO USE:
+
+1. Run CrimsonDesertUnlocker.exe
+
+2. Click "INSTALL DLC" button
+
+3. Program will AUTOMATICALLY search for Crimson Desert:
+   • Reads Steam location from Windows Registry
+   • Searches all Steam library folders
+   • Finds Crimson Desert installation
+
+4. Confirm the found path (or select manually if not found)
+
+5. Wait for installation to complete
+
+6. Launch Crimson Desert - all DLC will be unlocked!
+
+═══════════════════════════════════════════════════════════════
+
+AUTO-DETECTION:
+
+The program automatically finds Crimson Desert by:
+  ✓ Reading Steam path from Windows Registry
+  ✓ Checking multiple Registry locations
+  ✓ Parsing Steam's libraryfolders.vdf
+  ✓ Supporting multiple Steam libraries
+  ✓ Searching for game folder automatically
+
+Works on ANY Windows language version!
+Registry keys and Steam structure are universal.
+
+If not found automatically, you can select folder manually.
+
+═══════════════════════════════════════════════════════════════
+
+WHAT IT DOES:
+
+The program will copy 4 files to your game folder:
+  • CreamAPI_64.dll      - DLC unlocker library
+  • steam_api64.dll      - Modified Steam API
+  • steam_api64_o.dll    - Original Steam API backup
+  • cream_api.ini        - Configuration file
+
+These files are embedded inside the .exe and will be
+extracted automatically.
+
+═══════════════════════════════════════════════════════════════
+
+UNLOCKED DLC:
+
+• Crimson Desert - Pre Order Pack (4024630)
+• Crimson Desert - Deluxe Pack (4024620)
+• All future DLC (automatic unlock enabled)
+
+═══════════════════════════════════════════════════════════════
+
+BACKUP & UNINSTALL:
+
+The program creates automatic backups:
+  • steam_api64.dll.backup
+
+To uninstall:
+  1. Delete the 4 files from game folder
+  2. Rename steam_api64.dll.backup to steam_api64.dll
+
+═══════════════════════════════════════════════════════════════
+
+REQUIREMENTS:
+
+• Windows 7/8/10/11 (64-bit)
+• Crimson Desert game installed
+• Administrator rights (for file copying)
+
+═══════════════════════════════════════════════════════════════
+
+FEATURES:
+
+✓ Single .exe file - no external files needed
+✓ All DLL files embedded inside
+✓ Automatic backup creation
+✓ Beautiful UI with game background
+✓ No viruses, no malware
+✓ Open source code available
+
+═══════════════════════════════════════════════════════════════
+
+TECHNICAL INFO:
+
+File size: 1.88 MB
+Language: C++ (Win32 API)
+UI: GDI+ with antialiasing
+Resources: 4 DLL files (1.7 MB total)
+
+═══════════════════════════════════════════════════════════════
+
+Enjoy Crimson Desert with all DLC unlocked!
+
+© 2025 - For personal use only

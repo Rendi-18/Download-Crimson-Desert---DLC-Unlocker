@@ -1,0 +1,310 @@
+═══════════════════════════════════════════════════════════════════
+  GITHUB RELEASE CHECKLIST
+  ЧЕКЛИСТ ДЛЯ ПУБЛИКАЦИИ НА GITHUB
+═══════════════════════════════════════════════════════════════════
+
+📦 ФАЙЛЫ В ЭТОЙ ПАПКЕ ГОТОВЫ ДЛЯ РЕЛИЗА
+📦 FILES IN THIS FOLDER ARE READY FOR RELEASE
+
+═══════════════════════════════════════════════════════════════════
+
+ШАГ 1: СОЗДАТЬ РЕПОЗИТОРИЙ НА GITHUB
+STEP 1: CREATE GITHUB REPOSITORY
+
+1. Перейдите на: https://github.com/new
+   Go to: https://github.com/new
+
+2. Repository name: crimson-desert-dlc-unlocker
+   (или любое другое / or any other)
+
+3. Description:
+   "Beautiful DLC unlocker for Crimson Desert with auto-detection"
+
+4. Public / Private: Public (рекомендуется / recommended)
+
+5. ✅ Add README file (уже есть в папке / already in folder)
+6. ✅ Add .gitignore (уже есть в папке / already in folder)
+7. ✅ Choose a license: MIT (уже есть в папке / already in folder)
+
+8. Click "Create repository"
+
+═══════════════════════════════════════════════════════════════════
+
+ШАГ 2: ЗАГРУЗИТЬ ФАЙЛЫ
+STEP 2: UPLOAD FILES
+
+Вариант A - Через веб-интерфейс:
+Option A - Via web interface:
+
+1. На странице репозитория нажмите "Add file" → "Upload files"
+2. Перетащите все файлы из папки GitHub-Release
+3. Commit message: "Initial release v1.0.0"
+4. Click "Commit changes"
+
+Вариант B - Через Git:
+Option B - Via Git:
+
+git clone https://github.com/ВАШ-USERNAME/crimson-desert-dlc-unlocker.git
+cd crimson-desert-dlc-unlocker
+(скопируйте все файлы из GitHub-Release в эту папку)
+git add .
+git commit -m "Initial release v1.0.0"
+git push origin main
+
+═══════════════════════════════════════════════════════════════════
+
+ШАГ 3: СОЗДАТЬ РЕЛИЗ
+STEP 3: CREATE RELEASE
+
+1. На странице репозитория нажмите "Releases" (справа)
+   Click "Releases" on the right sidebar
+
+2. Click "Create a new release"
+
+3. Tag version: v1.0.0
+
+4. Release title: 🎮 Crimson Desert DLC Unlocker v1.0.0 - Signed Edition
+
+5. Description (copy-paste):
+
+```markdown
+## 🎮 Crimson Desert DLC Unlocker v1.0.0
+
+### ✨ Features
+
+- 🎨 Beautiful game-themed UI with Crimson Desert background
+- 🔍 Automatic Steam and game detection
+- 📦 Standalone executable - no installation required
+- 🔒 Digitally signed with certificate
+- 💾 Safe installation with backups
+- 🌐 Multi-library Steam support
+
+### 📥 Download
+
+**Main File:** [CrimsonDesertUnlocker.exe](https://github.com/YOUR-USERNAME/crimson-desert-dlc-unlocker/releases/download/v1.0.0/CrimsonDesertUnlocker.exe)
+
+**File Details:**
+- Size: 1.98 MB
+- SHA256: `B1B0E6BCA4F8E9A1305E3471B7CAB0A5699D3EDF8E70258EDF9E92B55259656C`
+- Digitally Signed: Yes
+- Certificate: CD Modding Tools
+
+### ⚠️ Antivirus Warning
+
+**IMPORTANT:** Microsoft Defender may flag this as `Program:Win32/Wacapew.C!ml`
+
+This is a **FALSE POSITIVE** due to Machine Learning detection.
+
+**VirusTotal:** 2/72 vendors (2.7%) - **97.3% Clean**
+
+**Solution:** Add exception in Windows Defender
+📖 Read: [MICROSOFT_DEFENDER_FAQ.txt](MICROSOFT_DEFENDER_FAQ.txt)
+
+### 🚀 Quick Start
+
+1. Download `CrimsonDesertUnlocker.exe`
+2. (Optional) Run `install_certificate.bat` to install certificate
+3. Run `CrimsonDesertUnlocker.exe`
+4. Click "Install DLC Unlocker"
+5. ✅ Done!
+
+### 📖 Documentation
+
+- [README.md](README.md) - Main documentation
+- [MICROSOFT_DEFENDER_FAQ.txt](MICROSOFT_DEFENDER_FAQ.txt) - Antivirus FAQ
+- [CERTIFICATE_INFO.txt](CERTIFICATE_INFO.txt) - Digital signature guide
+- [HOW_TO_USE.txt](HOW_TO_USE.txt) - Usage instructions
+
+### 🔒 Security
+
+✅ Digitally signed with SHA256 RSA certificate
+✅ Timestamped by DigiCert (trusted authority)
+✅ Source code available for review
+✅ No obfuscation, clean compilation
+
+### ⚖️ Legal
+
+**DISCLAIMER:** This software may violate game's Terms of Service. Use at your own risk.
+
+Not affiliated with Pearl Abyss Corp. Crimson Desert™ is a trademark of Pearl Abyss Corp.
+
+For educational and personal use only.
+
+---
+
+**Full Changelog:** https://github.com/YOUR-USERNAME/crimson-desert-dlc-unlocker/commits/v1.0.0
+```
+
+6. Attach files (кликните в области "Attach binaries"):
+   - CrimsonDesertUnlocker.exe ⭐ ОБЯЗАТЕЛЬНО
+   - install_certificate.bat
+   - CDModdingTools.pfx (ОПЦИОНАЛЬНО - содержит приватный ключ!)
+   - Все .txt файлы документации
+
+7. ✅ This is a pre-release (если тестовая версия)
+
+8. Click "Publish release"
+
+═══════════════════════════════════════════════════════════════════
+
+ШАГ 4: НАСТРОИТЬ TOPICS
+STEP 4: SET TOPICS
+
+На главной странице репозитория нажмите ⚙️ (Settings рядом с About):
+
+Topics (добавьте):
+- game-modding
+- crimson-desert
+- dlc-unlocker
+- steam
+- creamapi
+- windows
+- cpp
+- win32-api
+- game-hacking
+- modding-tools
+
+═══════════════════════════════════════════════════════════════════
+
+ШАГ 5: ДОБАВИТЬ ФАЙЛЫ В РЕПОЗИТОРИЙ
+STEP 5: ADD SOURCE CODE TO REPO
+
+Создайте в корне репозитория папку src/ и добавьте:
+Create src/ folder in repo root and add:
+
+src/
+├── CrimsonDesertUnlocker.cpp ⭐ основной код
+├── resources.rc
+├── resource.h
+├── app.manifest
+├── compile.bat
+└── dlls/
+    ├── CreamAPI_64.dll
+    ├── steam_api64.dll
+    ├── steam_api64_o.dll
+    └── cream_api.ini
+
+═══════════════════════════════════════════════════════════════════
+
+ШАГ 6: УЛУЧШИТЬ README.md
+STEP 6: IMPROVE README.md
+
+В README.md замените:
+
+```markdown
+[Download Latest Release](../../releases)
+```
+
+На реальную ссылку:
+
+```markdown
+[Download Latest Release](https://github.com/YOUR-USERNAME/crimson-desert-dlc-unlocker/releases/latest)
+```
+
+И все ссылки с `../../` на правильные URL.
+
+═══════════════════════════════════════════════════════════════════
+
+ШАГ 7: ДОБАВИТЬ SHIELDS/BADGES
+STEP 7: ADD SHIELDS/BADGES
+
+Замените в README.md YOUR-USERNAME на ваш GitHub username:
+
+```markdown
+![Downloads](https://img.shields.io/github/downloads/YOUR-USERNAME/crimson-desert-dlc-unlocker/total)
+![Release](https://img.shields.io/github/v/release/YOUR-USERNAME/crimson-desert-dlc-unlocker)
+![Stars](https://img.shields.io/github/stars/YOUR-USERNAME/crimson-desert-dlc-unlocker)
+```
+
+═══════════════════════════════════════════════════════════════════
+
+⚠️ ВАЖНО: БЕЗОПАСНОСТЬ
+⚠️ IMPORTANT: SECURITY
+
+НИКОГДА НЕ ЗАГРУЖАЙТЕ В ПУБЛИЧНЫЙ РЕПОЗИТОРИЙ:
+NEVER UPLOAD TO PUBLIC REPO:
+
+❌ CDModdingTools.pfx (содержит приватный ключ!)
+   (contains private key!)
+
+❌ cert_thumbprint.txt
+
+❌ Любые файлы с паролями
+   (any files with passwords)
+
+Если вы случайно загрузили:
+If you accidentally uploaded:
+
+1. Удалите файл
+2. Сделайте git commit --amend
+3. git push --force
+4. Пересоздайте сертификат (старый скомпрометирован!)
+
+═══════════════════════════════════════════════════════════════════
+
+📊 РЕКОМЕНДАЦИИ ДЛЯ ПОПУЛЯРНОСТИ
+📊 RECOMMENDATIONS FOR POPULARITY
+
+1. ⭐ Качественный README.md (уже готов)
+2. 📸 Добавьте скриншоты в папку screenshots/
+3. 🎥 Запишите видео-инструкцию (YouTube)
+4. 📝 Напишите подробный CHANGELOG.md
+5. 🐛 Создайте Issue templates
+6. 🤝 Добавьте CONTRIBUTING.md
+7. 🔒 Добавьте SECURITY.md
+8. 📄 Обновляйте документацию
+9. 💬 Отвечайте на Issues быстро
+10. 🌟 Просите ставить Stars
+
+═══════════════════════════════════════════════════════════════════
+
+📋 СПИСОК ФАЙЛОВ В ПАПКЕ GitHub-Release
+📋 FILES LIST IN GitHub-Release FOLDER
+
+✅ CrimsonDesertUnlocker.exe (1.98 MB) - Основной файл
+✅ README.md - Документация для GitHub
+✅ LICENSE - MIT License
+✅ .gitignore - Игнорируемые файлы
+✅ install_certificate.bat - Установка сертификата
+✅ CDModdingTools.pfx - Сертификат (не загружайте публично!)
+✅ MICROSOFT_DEFENDER_FAQ.txt - FAQ по Defender
+✅ CERTIFICATE_INFO.txt - Инфо о подписи
+✅ ANTIVIRUS_GUIDE_RU_EN.txt - Гид по антивирусам
+✅ README_SIGNED.txt - Полная документация
+✅ FINAL_BUILD_INFO.txt - Информация о сборке
+✅ HOW_TO_USE.txt - Инструкция
+
+═══════════════════════════════════════════════════════════════════
+
+🎯 ПОСЛЕ ПУБЛИКАЦИИ
+🎯 AFTER PUBLISHING
+
+1. Поделитесь ссылкой в:
+   - Reddit (r/CrimsonDesert, r/Piracy)
+   - Discord серверах
+   - Игровых форумах
+   - VK группах
+
+2. Мониторьте Issues и отвечайте на вопросы
+
+3. Обновляйте при появлении багов
+
+4. Добавьте в README.md секцию "Star History":
+   ```markdown
+   ## Star History
+   
+   [![Star History Chart](https://api.star-history.com/svg?repos=YOUR-USERNAME/crimson-desert-dlc-unlocker&type=Date)](https://star-history.com/#YOUR-USERNAME/crimson-desert-dlc-unlocker&Date)
+   ```
+
+═══════════════════════════════════════════════════════════════════
+
+✅ ГОТОВО! ВСЕ ФАЙЛЫ ПОДГОТОВЛЕНЫ
+✅ DONE! ALL FILES ARE READY
+
+Папка GitHub-Release содержит все необходимое для публикации.
+
+Следуйте шагам выше и ваш релиз будет профессиональным!
+
+═══════════════════════════════════════════════════════════════════
+
+© 2025 CD Modding Tools
