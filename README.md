@@ -1,67 +1,76 @@
-# 🎮 Crimson Desert DLC Unlocker
+Here are two versions of the post: one in English and one in Russian. Both are fully adapted for your Crimson Desert DLC Unlocker tool (standalone Qt C++ installer with 3 DLLs, atmospheric dark fantasy style). Replace YOUR_USERNAME with your actual GitHub username. Use the images below to illustrate (they match the game's epic desert, dragon, ruins, and warrior themes perfectly).
+English Version (for GitHub README, forums like Reddit/VasyHack, etc.)
+Markdown## Download Crimson Desert — DLC Unlocker (v1.0 • March 2026)
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/CrimsonDesert-DLC-Unlocker/releases/download/v1.0/CrimsonDesert-DLC-Unlocker.zip">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20LATEST%20RELEASE!-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=8B0000" alt="Download from GitHub Releases" width="380">
+  </a>
+</p>
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%2064--bit-lightgrey.svg)
-![License](https://img.shields.io/badge/license-Open%20Source-green.svg)
-![Language](https://img.shields.io/badge/language-C++-00599C.svg)
-![Digitally Signed](https://img.shields.io/badge/digitally%20signed-yes-success.svg)
+<p align="center">
+  <b>Standalone • One-Click • Atmospheric Qt UI • No Injection • MIT License</b><br>
+  <i>Backup your game files first! Launch → Select game folder → Click "Install DLC" — that's it!</i>
+</p>
 
-**Beautiful, modern DLC unlocker for Crimson Desert with automatic Steam detection**
+### Preview of the Installer (Crimson & Gold Dark Fantasy Theme)
 
-[Download Latest Release](../../releases) | [Report Issue](../../issues) | [Documentation](#documentation)
+<grok-card data-id="601ba9" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
 
-</div>
 
----
 
-## ✨ Features
+<grok-card data-id="1f3c6e" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
 
-- 🎨 **Beautiful UI** - Game-themed interface with Crimson Desert background
-- 🔍 **Auto-Detection** - Automatically finds Steam and game installation
-- 📦 **Standalone** - No installation required, no external dependencies
-- 🔒 **Digitally Signed** - Code signed with timestamp verification
-- 🌐 **Multi-Library Support** - Works with multiple Steam library locations
-- 💾 **Safe Installation** - Creates backups before modifying files
-- 🚀 **Easy to Use** - One-click installation process
 
----
 
-## 📥 Download
+<grok-card data-id="82a063" data-type="image_card" data-plain-type="render_searched_image"  data-arg-size="LARGE" ></grok-card>
 
-### Latest Release: v1.0.0
 
-**Download:** [CrimsonDesertUnlocker.exe](../../releases/latest)
-
-**File Details:**
-- **Size:** 1.98 MB
-- **SHA256:** `B1B0E6BCA4F8E9A1305E3471B7CAB0A5699D3EDF8E70258EDF9E92B55259656C`
-- **Signed:** Yes (CD Modding Tools)
-- **Timestamp:** DigiCert
+<p align="center"><i>Epic Crimson Desert vibes: flying dragons over red rock deserts, ancient fortresses at sunset. Installer uses deep crimson gradients (#8B0000–#4A0000), gold accents (#D4A017), sandy text (#D2B48C), and a huge stylish "Install DLC" button.</i></p>
 
 ---
+### Where This Tool Has Been Shared (March 2026)
+| Platform          | Description                                   | Link                                                                 |
+|-------------------|-----------------------------------------------|----------------------------------------------------------------------|
+| GitHub (Official) | Source code + Releases (ZIP + .exe)           | [github.com/YOUR_USERNAME/CrimsonDesert-DLC-Unlocker](https://github.com/YOUR_USERNAME/CrimsonDesert-DLC-Unlocker) |
 
-## 🚀 Quick Start
+Thanks to the Crimson Desert community! ❤️  
+If your site/forum reposted it — tell me, I'll add the link.
 
-### Option 1: With Certificate Installation (Recommended)
+Made with passion for Crimson Desert players • Open Source • March 2026
 
-1. Download `CrimsonDesertUnlocker.exe`
-2. Run `install_certificate.bat` (installs certificate to trusted store)
-3. Run `CrimsonDesertUnlocker.exe`
-4. Click **"Install DLC Unlocker"**
-5. Confirm game folder or select manually
-6. ✅ Done!
+### 📥 Download & Discuss
+[![DOWNLOAD v1.0](https://img.shields.io/badge/DOWNLOAD%20v1.0-READY!-brightgreen?style=for-the-badge&logo=windows&color=8B0000)](https://github.com/YOUR_USERNAME/CrimsonDesert-DLC-Unlocker/releases/download/v1.0/CrimsonDesert-DLC-Unlocker.zip)
+[![ALL RELEASES](https://img.shields.io/badge/ALL%20RELEASES-blue?style=for-the-badge)](https://github.com/YOUR_USERNAME/CrimsonDesert-DLC-Unlocker/releases)
 
-### Option 2: Direct Run
+MIT License • Open Source  
+**Made with ❤️ for the Crimson Desert community • v1.0 — March 2026**
 
-1. Download `CrimsonDesertUnlocker.exe`
-2. Run the executable
-3. If Windows SmartScreen appears: Click **"More info"** → **"Run anyway"**
-4. Click **"Install DLC Unlocker"**
-5. ✅ Done!
+## Why This DLC Unlocker?
+- Pure Crimson Desert atmosphere: crimson tones, gold highlights, epic desert backdrop
+- **One-click** — copies 3 DLLs (DLCUnlocker1.dll + 2 more) straight to game folder
+- Beautiful Qt interface: gradients, hover animations, installation log, semi-transparent overlay
+- No injection • No admin rights • Fully external
+- Tiny size (~2–3 MB) • Windows 10/11 ready
+- Full source code — build & verify yourself
 
----
+After install: Launch game → ESC → Other → Settings → Add-ons → Check unlocked items on the left!
+
+## Installation – 20 Seconds
+1. Download ZIP from **Releases**
+2. Extract anywhere
+3. Run **CrimsonDesert-DLC-Unlocker.exe**
+4. Click big **"Install DLC"** button
+5. Select game folder (Steam\steamapps\common\Crimson Desert)
+6. Wait for log to say "Done!"
+7. Launch Crimson Desert & enjoy
+
+**Pro tip**: Always backup the game folder!
+
+## Build from Source
+```bash
+git clone https://github.com/YOUR_USERNAME/CrimsonDesert-DLC-Unlocker.git
+cd CrimsonDesert-DLC-Unlocker
 
 ## ⚠️ Important: Antivirus Warnings
 
@@ -74,17 +83,6 @@ This is a **legitimate** game modification tool. Some antiviruses show **FALSE P
 3. **CreamAPI Pattern** - Uses known DLC unlock patterns
 4. **Machine Learning Detection** - Behavior similar to game cracks
 5. **Low Reputation** - New file without widespread usage
-
-### Detection Status
-
-**VirusTotal:** 2/72 vendors (2.7%) - **97.3% Clean**
-
-Detected by:
-- ❌ Microsoft Defender: `Program:Win32/Wacapew.C!ml` (ML detection)
-- ❌ Bkav Pro: `W64.AIDetectMalware` (AI detection)
-
-**NOT** detected by:
-- ✅ Kaspersky, BitDefender, ESET, Avast, AVG, Norton, McAfee, Sophos, Trend Micro, F-Secure, and 60+ others
 
 ### Solution
 
@@ -100,29 +98,6 @@ Add-MpPreference -ExclusionPath "C:\path\to\CrimsonDesertUnlocker.exe"
 ```
 
 📖 **Read:** [MICROSOFT_DEFENDER_FAQ.txt](MICROSOFT_DEFENDER_FAQ.txt) for detailed explanation
-
----
-
-## 🛡️ Security & Trust
-
-### What We Did
-
-✅ **Digital Signature** - Signed with SHA256 RSA 2048-bit certificate  
-✅ **Timestamped** - By DigiCert (trusted authority)  
-✅ **Complete Metadata** - Company, copyright, version info  
-✅ **Security Flags** - Buffer overflow protection, DEP, ASLR  
-✅ **Open Source** - All source code available for review  
-✅ **No Obfuscation** - Clean, readable code  
-
-### Digital Signature Details
-
-```
-Subject: CN=CD Modding Tools, O=CD Modding Tools, C=US
-Thumbprint: B6F811EBEBA0B6C989AA7044D4AA7BA112C67C8E
-Algorithm: SHA256 with RSA (2048-bit)
-Timestamp: DigiCert SHA256 RSA4096 Timestamp Responder 2025
-Valid: March 23, 2026 - March 23, 2031
-```
 
 ### What This Program Does
 
