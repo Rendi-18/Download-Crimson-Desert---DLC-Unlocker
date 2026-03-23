@@ -27,6 +27,11 @@
 <p align="center"><i>Epic Crimson Desert vibes: flying dragons over red rock deserts, ancient fortresses at sunset. Installer uses deep crimson gradients (#8B0000–#4A0000), gold accents (#D4A017), sandy text (#D2B48C), and a huge stylish "Install DLC" button.</i></p>
 
 ---
+
+https://github.com/user-attachments/assets/b5089e50-65f1-49f8-bf16-e4a6c55cfb4d
+
+
+
 ### Where This Tool Has Been Shared (March 2026)
 | Platform          | Description                                   | Link                                                                 |
 |-------------------|-----------------------------------------------|----------------------------------------------------------------------|
