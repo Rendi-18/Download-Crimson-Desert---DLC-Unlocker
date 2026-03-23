@@ -1,6 +1,4 @@
-Here are two versions of the post: one in English and one in Russian. Both are fully adapted for your Crimson Desert DLC Unlocker tool (standalone Qt C++ installer with 3 DLLs, atmospheric dark fantasy style). Replace YOUR_USERNAME with your actual GitHub username. Use the images below to illustrate (they match the game's epic desert, dragon, ruins, and warrior themes perfectly).
-English Version (for GitHub README, forums like Reddit/VasyHack, etc.)
-Markdown## Download Crimson Desert — DLC Unlocker (v1.0 • March 2026)
+## Download Crimson Desert — DLC Unlocker (v1.0 • March 2026)
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME/CrimsonDesert-DLC-Unlocker/releases/download/v1.0/CrimsonDesert-DLC-Unlocker.zip">
